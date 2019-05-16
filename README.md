@@ -4,7 +4,13 @@
 
 Main repository for our app.
 
+**Final release date: 28/5-19 20:00 CEST.**
+
 Hi and welcome to our school project for a android app using Systembolagets product index. 
+
+[![N|Solid](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://github.com/ErikFrisenstam/SystemetAppGrupp5/tree/v1.0)
+
+
 
 Who are we?
 * Erik Frisenstam - Lead Programmer
@@ -17,6 +23,6 @@ Who are we?
 
 Below you can see a snapshot of the frontpage.
 
-[![N|Solid](https://images2.imgbox.com/1a/6a/j2jlqqQl_o.png)]
+[![N|Solid](https://images2.imgbox.com/1a/6a/j2jlqqQl_o.png)]()
 
 
